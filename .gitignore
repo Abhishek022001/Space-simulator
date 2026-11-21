@@ -1,0 +1,21 @@
+# Build artifacts
+build/
+bin/
+
+# Portable tools & downloaded zips
+cmake_bin/
+cmake_portable.zip
+glad_generated/
+
+# Temporary logs & debug outputs
+*.log
+*.tmp
+phase1_output.txt
+phase1_stderr.txt
+
+# Editor & OS files
+.vscode/
+.idea/
+*.user
+Thumbs.db
+.DS_Store
